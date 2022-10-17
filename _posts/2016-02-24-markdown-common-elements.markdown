@@ -4,11 +4,11 @@ layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
+projects: true
 tag:
-- markdown
-- elements
+- API
 star: true
-category: blog
+category: project
 author: johndoe
 description: Markdown summary with different options
 ---

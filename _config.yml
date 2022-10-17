@@ -31,14 +31,14 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: https://www.linkedin.com/in/yi-hsin-wen-7331b2251/
-github: https://marshmellorice.github.io
+linkedin: yihsinwen01
+github: MarshmelloRice
 email: yihsin.wen01@gmail.com
 
 authors:
@@ -47,8 +47,6 @@ authors:
     bio: Passionate about technology and financial markets 
     external-image: false
     picture: assets/images/profile.png
-    #twitter: johndoe
-
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
