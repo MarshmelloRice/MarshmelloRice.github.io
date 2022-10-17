@@ -6,9 +6,8 @@ layout: page
 
 <p>Current student at Northeastern University major with Computer Science.</p>
 
-
-
 <h2>Skills</h2>
+
 <ul class="skill-list">
 	<li> <h4>Languages: </h4>
 		<ul>
@@ -53,7 +52,7 @@ layout: page
 
 <h2>Certificates</h2>
 	<ul>
-		<li><a href=""></a>AWS Cloud Practitioner</li>
+		<li><a href="https://drive.google.com/file/d/1ZySdhjInyNPJF6xETnfzp5vi0F65pOId/view?usp=sharing"></a>AWS Cloud Practitioner</li>
 	</ul>
 
 <h2>Projects</h2>
