@@ -8,7 +8,7 @@ bio: Project showcase
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -37,8 +37,8 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
+linkedin: https://www.linkedin.com/in/yi-hsin-wen-7331b2251/
+github: https://marshmellorice.github.io
 email: yihsin.wen01@gmail.com
 
 authors:
@@ -46,7 +46,7 @@ authors:
     name: Yi Hsin Wen
     bio: Passionate about technology and financial markets 
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile.png
     #twitter: johndoe
 
 
@@ -63,12 +63,12 @@ pagination:
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
 # if you don't need "about" or "blog", comment them out below
 about: true
 # blog: true
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
