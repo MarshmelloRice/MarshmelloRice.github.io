@@ -2,7 +2,9 @@
 title: "Twitter API"
 layout: post
 date: 2022-10-08 22:10
-tag: API
+tag:
+- API
+- Python
 image: https://github.com/MarshmelloRice/MarshmelloRice.github.io/blob/main/assets/images/twitter.png?raw=true
 headerImage: true
 projects: true
@@ -24,18 +26,16 @@ Developed an interactive application that leverages the Twitter API, allowing us
 
 ## Screenshots
 ![Screenshot](https://github.com/MarshmelloRice/MarshmelloRice.github.io/blob/main/assets/images/twitter_kingjames.png?raw=true)
-
 (Twitter image)
 
 ![Screenshot](https://github.com/MarshmelloRice/MarshmelloRice.github.io/blob/main/assets/images/twitter_result.png?raw=true)
-
-(result image)
-
+(Result CSV image)
 
 Example of project - Twitter-API - [Demo](https://github.com/MarshmelloRice/Twitter-API). 
-
 
 ---
 
 [Check it out](https://marshmellorice.github.io) here.
 If you need some help, please [tell me](https://github.com/MarshmelloRice/Twitter-API/issues).
+
+---
