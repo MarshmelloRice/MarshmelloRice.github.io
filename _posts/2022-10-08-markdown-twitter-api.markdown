@@ -23,7 +23,11 @@ Developed an interactive application that leverages the Twitter API, allowing us
 ---
 
 ## Screenshots
-![Screenshot]()
+![Screenshot](https://github.com/MarshmelloRice/MarshmelloRice.github.io/blob/main/assets/images/twitter_kingjames.png?raw=true)
+(Twitter image)
+
+![Screenshot](https://github.com/MarshmelloRice/MarshmelloRice.github.io/blob/main/assets/images/twitter_result.png?raw=true)
+(result image)
 
 
 Example of project - Twitter-API - [Demo](https://github.com/MarshmelloRice/Twitter-API). 
