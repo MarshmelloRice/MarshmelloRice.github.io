@@ -1,9 +1,9 @@
 ---
-title: "helloworld"
+title: "Twitter API"
 layout: post
 date: 2022-10-08 22:10
 tag: API
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://marshmellowrice.github.io/indigo/assets/images/twitter.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
